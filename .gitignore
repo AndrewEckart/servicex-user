@@ -1,0 +1,6 @@
+.idea/
+venv/
+
+# ServiceX config files
+.servicex
+servicex.yaml
