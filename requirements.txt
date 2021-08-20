@@ -1,0 +1,1 @@
+servicex_clients>=1.2
